@@ -13,25 +13,25 @@ h3 {
 }
 
 #inputs {
-    width: 24rem;
+    width: 21rem;
     height: 30rem;
-    box-shadow: 10px 10px 15px coral;
-    margin: 6% auto;
-    border-radius: 1rem;
+    box-shadow: 2px 2px 2px coral;
+    margin: 5% auto;
+    border-radius: 2rem;
     background-color: #12475f;
     position: relative;
     text-align: center;
-    padding: 8px;
+    padding: 5px;
     font-weight: bolder;
 }
 
 input {
     font-weight: bolder;
-    background-color: (0,0,0,0.8);
+    background-color: 0,0,0,0.8;
     border: none;
-    margin: 10px;
-    padding: 10px;
-    box-shadow: 4px 4px 10px white;
+    margin: 5px;
+    padding: 5px;
+    box-shadow: 3px 3px 5px white;
     border-radius: 9px;
     text-align: center;
 }
